@@ -1,5 +1,10 @@
 Jai mata di ek baar phr se
+<<<<<<< HEAD
 
 Jai mata di
 
 Ek baar aaja maa
+=======
+koi to bolo jai mata di
+Jai mata di
+>>>>>>> 868bea5f6f98fa0a3946f3f4578becd4fc40a193
